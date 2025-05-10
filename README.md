@@ -5,10 +5,10 @@ This is a fully responsive **Food Delivery Website** built using modern frontend
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo  https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview
 
-[Click here to view the project](https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview)
-)
+[(https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview)]
+
 
 ---
 
