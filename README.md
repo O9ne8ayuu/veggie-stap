@@ -7,7 +7,8 @@ This is a fully responsive **Food Delivery Website** built using modern frontend
 
 ## 🌐 Live Demo
 
-[Click here to view the hosted project](https://your-hosted-link.com)
+[Click here to view the project](https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview)
+)
 
 ---
 
@@ -92,7 +93,7 @@ This is a fully responsive **Food Delivery Website** built using modern frontend
 
 ## 🌐 Live Demo
 
-[Click here to view the hosted project](https://your-hosted-link.com)
+[Click here to view the  project](https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview)
 
 ---
 
@@ -178,7 +179,7 @@ This is a fully responsive **Food Delivery Website** built using modern frontend
 
 ## 🌐 Live Demo
 
-[Click here to view the hosted project](https://your-hosted-link.com)
+[Click here to view the hosted project](https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview)
 
 ---
 
@@ -240,6 +241,7 @@ Used for **non-blocking notifications** like:
 - Custom styling
 
 ---
+### Tailwindcss
 
 ### ✅ Other Frontend Tools & Concepts
 
@@ -261,25 +263,10 @@ Used for **non-blocking notifications** like:
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/your-username/food-delivery-app.git
-cd food-delivery-app
-npm install
-npm start
 
 🚀 ### #Deployment
 You can deploy this project using:
 
 🔹 Netlify
-Login to Netlify
-
-Drag & drop the build folder after npm run build
-
-Or connect GitHub repo directly
-
-🔹 Vercel
-Login to Vercel
-
-Import GitHub repo and deploy
 
 
