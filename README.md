@@ -10,7 +10,8 @@ This is a fully responsive **Food Delivery Website** built using modern frontend
 [Click here to view the  project](https://app.netlify.com/sites/veggie-stap-o9ne8ayuu/overview)
 
 ---
-
+link: 
+https://app.netlify.com/projects/veggie-stap-o9ne8ayuu/overview
 ## 📌 Features
 
 - Browse delicious food items with attractive UI
